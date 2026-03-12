@@ -1,0 +1,14 @@
+/root
+├── components/
+│   ├── AnimatedBackground.tsx  <-- New Canvas Component
+│   ├── SplashLoader.tsx
+│   ├── Hero.tsx
+│   ├── Experience.tsx
+│   ├── Skills.tsx
+│   └── ui/ (shadcn components)
+├── app/
+│   ├── layout.tsx
+│   └── page.tsx
+├── lib/
+│   └── data.json (The JSON above)
+└── public/
