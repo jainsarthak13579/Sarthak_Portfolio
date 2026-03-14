@@ -70,5 +70,28 @@
     { "metric": "30%", "context": "Improvement in operational efficiency via automated Pega solutions" },
     { "metric": "25%", "context": "Optimization in application performance through strategic rule usage" },
     { "metric": "4", "context": "Enterprise Pega applications built and enhanced" }
+  ],
+  "services": [
+    {
+      "id": "pega-dev",
+      "title": "Enterprise Pega Development",
+      "description": "End-to-end BPM solutions, Case Management, and System Integrations (REST/SOAP).",
+      "price": "Custom Quote",
+      "features": ["Workflow Automation", "UI/UX Portals", "Performance Optimization"]
+    },
+    {
+      "id": "data-analytics",
+      "title": "Data Analytics & Power BI",
+      "description": "Transforming raw data into interactive dashboards and actionable business insights.",
+      "price": "Hourly/Project",
+      "features": ["PL-300 Certified Reports", "SQL Optimization", "Data Modeling"]
+    },
+    {
+      "id": "ai-ml",
+      "title": "AI/ML Integration",
+      "description": "Building and deploying Python-based machine learning models for predictive analysis.",
+      "price": "Custom Quote",
+      "features": ["Predictive Modeling", "Automation Scripts", "Data Mining"]
+    }
   ]
 }
